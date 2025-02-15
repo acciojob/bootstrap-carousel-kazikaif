@@ -1,1 +1,7 @@
 /* Do not add any css, this is a bootstrap only assignment  */
+.first-slide { background-color: #f1c40f; height: 300px; }
+    .second-slide { background-color: #e74c3c; height: 300px; }
+    .third-slide { background-color: #2ecc71; height: 300px; }
+    .fourth-slide { background-color: #3498db; height: 300px; }
+    .fifth-slide { background-color: #9b59b6; height: 300px; }
+    .carousel-caption { color: #fff; }
